@@ -1,26 +1,29 @@
 {
-  "mainblogpage": [
-    {
-      "id": "blog-1",
-      "img" : "https://manavrachna.edu.in/wp-content/uploads/2022/08/big-data-center-analyzes-data-science-background-presentation-big-data-center-analyzes-data-science-background-159196598.jpg",
-      "title": "Data Science: A NEW Career Platform",
-      "content": ["Life is a journey where we have to come across and experience different paths. Right from birth till old age, a person goes through many stages of life that we have to go through. And one of the vital stages is, “CAREER”. When we are close to reaching the ‘Career stage’ or presently standing at it we always think about it. In the morning, evening, while awake, eating, sleeping, or doing other daily chores, “one and the only” thing that we keep thinking about is “Career” and so many questions like about career? Whether this career will be good or the other one? If I choose this then will I get a good salary job in this? And so on…", "Education in any country is essential for giving momentum to the economy. India started its progression from a low base. India is fragmented in castes and languages. The work allocation is being done according to castes. All the castes could not be given equal importance in contributing to the economy’s strength. Secondly, people have been treated unequally for private jobs, no matter how much the difference in the primary conditions. The part that chained the economy in the caste system must have been over by 1991 when it was realized that the economic system could not grow up to the expectations, no matter if it continued with the same repeated practices. 1991 was the year when the wings of the economy were opened. Since then, the enrolment ratio in schools has increased manifold, and the intake capacity of higher education has increased even more. Education needs to support the economy when it is given a free path. Because the economy is expected to grow horizontally and vertically, it needs all sorts of educated people."]
-    },
-    {
-      "id": "blog-2",
-      "img" :"https://manavrachna.edu.in/wp-content/uploads/2022/09/blog1607167384-e1663154476860.jpg",
-      "title": "HIGHER EDUCATION AND ECONOMIC DEVELOPMENT",
-      "content": ["Education in any country is essential for giving momentum to the economy. India started its progression from a low base. India is fragmented in castes and languages. The work allocation is being done according to castes. All the castes could not be given equal importance in contributing to the economy’s strength. Secondly, people have been treated unequally for private jobs, no matter how much the difference in the primary conditions. The part that chained the economy in the caste system must have been over by 1991 when it was realized that the economic system could not grow up to the expectations, no matter if it continued with the same repeated practices. 1991 was the year when the wings of the economy were opened. Since then, the enrolment ratio in schools has increased manifold, and the intake capacity of higher education has increased even more. Education needs to support the economy when it is given a free path. Because the economy is expected to grow horizontally and vertically, it needs all sorts of educated people."]
-    },
-    {
-      "id": 3,
-      "title": "Notes For Class 7, 8, 9, 10, 11, and 12 (All Subjects)",
-      "content": ["Studybuddy.store CBSE Notes help students prepare for exams in the best possible ways. The use of CBSE Notes helps students save time by helping them remember formulas, definitions, and other crucial information. These important areas of attention are collectively referred to as CBSE Notes. These notes are written by understudies as they study the CBSE course readings. Understudies' test preparation is made simpler and more organised with the help of these CBSE Notes. Studying from CBSE Notes allows students to make well-organized and written preparation plans for the test. By not having to read the entire course text, taking notes allows students to save time during revision. Understudies can quickly and easily find a summary of all the sections in the notes.With just these notes, students can quickly review all the concepts. Download CBSE notes for classes 6, 7, 8, math, science, and social science from this page. You may also download notes for classes 9 and 10 in math, science, and social science as well as notes for classes 11 and 12 in math, physics, chemistry, and biology."]
-    },
-    {
-      "id": 4,
-      "title": "Notes For Class 7, 8, 9, 10, 11, and 12 (All Subjects)",
-      "content": ["Studybuddy.store CBSE Notes help students prepare for exams in the best possible ways. The use of CBSE Notes helps students save time by helping them remember formulas, definitions, and other crucial information. These important areas of attention are collectively referred to as CBSE Notes. These notes are written by understudies as they study the CBSE course readings. Understudies' test preparation is made simpler and more organised with the help of these CBSE Notes. Studying from CBSE Notes allows students to make well-organized and written preparation plans for the test. By not having to read the entire course text, taking notes allows students to save time during revision. Understudies can quickly and easily find a summary of all the sections in the notes.With just these notes, students can quickly review all the concepts. Download CBSE notes for classes 6, 7, 8, math, science, and social science from this page. You may also download notes for classes 9 and 10 in math, science, and social science as well as notes for classes 11 and 12 in math, physics, chemistry, and biology."]
-    }
-  ]
-}
+    "mainblogpage": [
+      {
+        "id": "blog-1",
+        "img" : "https://manavrachna.edu.in/wp-content/uploads/2022/08/big-data-center-analyzes-data-science-background-presentation-big-data-center-analyzes-data-science-background-159196598.jpg",
+        "title": "Data Science: A NEW Career Platform",
+        "content": ["Life is a journey where we have to come across and experience different paths. Right from birth till old age, a person goes through many stages of life that we have to go through. And one of the vital stages is, “CAREER”. When we are close to reaching the ‘Career stage’ or presently standing at it we always think about it. In the morning, evening, while awake, eating, sleeping, or doing other daily chores, “one and the only” thing that we keep thinking about is “Career” and so many questions like about career? Whether this career will be good or the other one? If I choose this then will I get a good salary job in this? And so on…", "Education in any country is essential for giving momentum to the economy. India started its progression from a low base. India is fragmented in castes and languages. The work allocation is being done according to castes. All the castes could not be given equal importance in contributing to the economy’s strength. Secondly, people have been treated unequally for private jobs, no matter how much the difference in the primary conditions. The part that chained the economy in the caste system must have been over by 1991 when it was realized that the economic system could not grow up to the expectations, no matter if it continued with the same repeated practices. 1991 was the year when the wings of the economy were opened. Since then, the enrolment ratio in schools has increased manifold, and the intake capacity of higher education has increased even more. Education needs to support the economy when it is given a free path. Because the economy is expected to grow horizontally and vertically, it needs all sorts of educated people."]
+      },
+      {
+        "id": "blog-2",
+        "img" :"https://manavrachna.edu.in/wp-content/uploads/2022/09/blog1607167384-e1663154476860.jpg",
+        "title": "HIGHER EDUCATION AND ECONOMIC DEVELOPMENT",
+        "content": ["Education in any country is essential for giving momentum to the economy. India started its progression from a low base. India is fragmented in castes and languages. The work allocation is being done according to castes. All the castes could not be given equal importance in contributing to the economy’s strength. Secondly, people have been treated unequally for private jobs, no matter how much the difference in the primary conditions. The part that chained the economy in the caste system must have been over by 1991 when it was realized that the economic system could not grow up to the expectations, no matter if it continued with the same repeated practices. 1991 was the year when the wings of the economy were opened. Since then, the enrolment ratio in schools has increased manifold, and the intake capacity of higher education has increased even more. Education needs to support the economy when it is given a free path. Because the economy is expected to grow horizontally and vertically, it needs all sorts of educated people."]
+      },
+      {
+        "id": 3,
+        "img" :"https://static.india.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-03-25-at-1.37.56-PM-3.jpeg",
+        "title": "CBSE Board Exam 2023: Class 10, 12 Results Expected Date",
+        "content": ["Central Board of Secondary Education (CBSE) conducted the Class 10 and Class 12 board examinations for the 2023 batch in February-April and the results are awaited. This year, CBSE Class 10 board examinations were conducted from February 15 to March 21 and Class 12 exams were held from February 15 to April 5. According to several media reports, answer sheets are currently being evaluated."]
+      },
+      {
+        "id": 4,
+        "img" :"https://img.jagranjosh.com//images/2023/March/2732023/CBSE-Class-10th-Result.webp",
+        "title": "Notes For Class 7, 8, 9, 10, 11, and 12 (All Subjects)",
+        "content": ["The Central Board of Secondary Education (CBSE) conducted the class 10th board exam from February 15, 2023, to March 21, 2023. Now, the exams are over, students are waiting for the announcement of CBSE 10th result 2023 date and time. As per now, there has been no official update regarding the release of the CBSE 10th result, however, it can be expected to be released by May/June 2023. Once available, students can check their CBSE 10th result 2023 in online mode at the official websites. Apart from the official website, students can also download their CBSE class 10th result 2023 at digilocker. They need to use their login credentials to check and download CBSE 10th result. "]
+      }
+    ]
+  }
+  
